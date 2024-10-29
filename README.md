@@ -7,6 +7,12 @@
 
 A more advanced, serverless, and free uptime monitoring & status page solution, powered by Cloudflare Workers, complete with a user-friendly interface.
 
+# 视频教程
+- [点击进入视频教程](https://youtu.be/X03S2HxnniM)
+- [免费域名视频教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR)
+- [免费节点Cloudflare视频教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF)
+- [serv00所有视频教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY)
+  
 ## ⭐Features
 - Open-source, easy to deploy (in under 10 minutes, no local tools required), and free
 - Monitoring capabilities
